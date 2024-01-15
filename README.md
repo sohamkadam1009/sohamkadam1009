@@ -19,7 +19,8 @@ My primary goal is to continue learning and growing as a software developer. I a
 I'm always open to collaboration and discussion. Feel free to reach out if you share similar interests, have project ideas, or just want to connect.
 
 - Email: sohamkadam1009@gmail.com
-- **LinkedIn: **[Soham Kadam](https://www.linkedin.com/in/soham-kadam-8579102aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3xTRTnaSD6ofMj0MWWPZw%3D%3D)
+- LinkedIn: [Soham Kadam](https://www.linkedin.com/in/soham-kadam-8579102aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3xTRTnaSD6ofMj0MWWPZw%3D%3D)
 - coursera certificate: https://coursera.org/share/8c02646f6b59a1d3ccdbc9029f8110b9
+- Cyber Security Certificate: https://certificate.givemycertificate.com/c/08a425ef-7650-4e73-b5b7-c5d5aa9aca38
 
 Let's code and create something beautiful together! 🚀
