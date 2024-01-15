@@ -18,8 +18,7 @@ My primary goal is to continue learning and growing as a software developer. I a
 ## Get in Touch
 I'm always open to collaboration and discussion. Feel free to reach out if you share similar interests, have project ideas, or just want to connect.
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Soham Kadam](https://www.linkedin.com/in/soham-kadam/)
-- **GitHub:** [sohamkadam](https://github.com/sohamkadam)
+- **Email:** sohamkadam1009@gmail.com(mailto:sohamkadam1009@gmail.com)
+- **LinkedIn:** linkedin.com/in/soham-kadam-8579102aa
 
 Let's code and create something beautiful together! 🚀
