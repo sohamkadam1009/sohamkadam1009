@@ -11,11 +11,11 @@ I'm enthusiastic about coding and love to bring my ideas to life through program
 About Me :
 - 🖥 My Technical Skills : 
   - **Languages :** ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-html-05122A?style=plastic&logo=html&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=plastic&logo=javascript&color=af4e4e)
-  - Solid understanding of computer science fundamentals.
-  - Experienced in translating ideas into functional programs.
-  - Strong problem-solving and analytical skills.
-  - Ability to work collaboratively on diverse projects.
-  - Continuous learner with a passion for staying updated on emerging technologies.
+  - Solid understanding of **Computer Science Fundamentals.**
+  - Experienced in **translating ideas into functional programs.**
+  - Strong **problem-solving** and **analytical skills.**
+  - Ability to **work collaboratively** on diverse projects.
+  - Continuous learner with a passion for **staying updated** on emerging technologies.
 
 
 
