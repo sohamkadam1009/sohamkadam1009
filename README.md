@@ -11,6 +11,9 @@ I'm enthusiastic about coding and love to bring my ideas to life through program
 About Me :
 - 🌱 My Technical Skills :
   - **Languages :** ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=353535) ![Bootstrap](https://img.shields.io/badge/-html-05122A?style=plastic&logo=html&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=plastic&logo=javascript&color=353535)
+  - ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-html-05122A?style=plastic&logo=html&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=plastic&logo=javascript&color=af4e4e)
+![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=375090) ![Bootstrap](https://img.shields.io/badge/-html-05122A?style=plastic&logo=html&color=375090) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS&color=375090) ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=plastic&logo=javascript&color=375090)
+
 
 
 - 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/18muUNksuXdxrGFZmfg-vG27seXBKKRaW/view?usp=drive_link)
