@@ -25,7 +25,7 @@ About Me :
 - 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/11jdSw14hZmjfjwEtttPR1zPR2ECcL1NT/view?usp=sharing)
 - 📚 **Certifications :**
   
-  - [Coursera certificate]( https://coursera.org/share/8c02646f6b59a1d3ccdbc9029f8110b9)
+  - [HTML, CSS, and JavaScript]( https://coursera.org/share/8c02646f6b59a1d3ccdbc9029f8110b9)
   - [Cyber Security Certificate](https://certificate.givemycertificate.com/c/08a425ef-7650-4e73-b5b7-c5d5aa9aca38)
     
 - 📫 How to reach me :
