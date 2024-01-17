@@ -22,7 +22,7 @@ About Me :
 
 
 
-- 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/18muUNksuXdxrGFZmfg-vG27seXBKKRaW/view?usp=drive_link)
+- 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/18muUNksuXdxrGFZmfg-vG27seXBKKRaW/view?usp=sharing)
 - 📚 **Certifications :**
   
   - [Coursera certificate]( https://coursera.org/share/8c02646f6b59a1d3ccdbc9029f8110b9)
