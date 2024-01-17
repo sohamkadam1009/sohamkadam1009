@@ -4,12 +4,25 @@
 <img align="right" alt="Coding" width="200" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/570bfa_93eba704821a45119d72f3c091263817_mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkadam10009&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkadam10009" /> </p>
-I'm enthusiastic about coding and love to bring my ideas to life through programming. This README serves as a snapshot of my journey, projects, and interests.
+I'm enthusiastic about coding and love to bring my ideas to life through programming.
 
-About Me
-- **Name:** Soham Kadam
-- **Academic Status:** Second-year B.Sc. Computer Science student at Fergusson College
-- **Interests:** Coding, exploring new technologies, creating meaningful projects
+##
+
+About Me :
+- 🌱 I’m currently learning : **Excel, SQL, PowerBi, Statistics, Python**
+- 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/18muUNksuXdxrGFZmfg-vG27seXBKKRaW/view?usp=drive_link)
+- 📚 **Certifications :**
+  
+  - [Coursera certificate]( https://coursera.org/share/8c02646f6b59a1d3ccdbc9029f8110b9)
+  - [Cyber Security Certificate](https://certificate.givemycertificate.com/c/08a425ef-7650-4e73-b5b7-c5d5aa9aca38)
+    
+- 📫 How to reach me :
+   - **sohamkadam1009@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/soham-kadam-8579102aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3xTRTnaSD6ofMj0MWWPZw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham kadam" height="30" width="40" /></a>
+
+</p>
 
 ## Academic Journey
 I am currently pursuing my undergraduate degree in Computer Science at Fergusson College. Throughout my academic journey, I've developed a strong foundation in computer science concepts and practical implementation.
@@ -25,7 +38,6 @@ I'm always open to collaboration and discussion. Feel free to reach out if you s
 
 - Email: sohamkadam1009@gmail.com
 - LinkedIn: [Soham Kadam](https://www.linkedin.com/in/soham-kadam-8579102aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3xTRTnaSD6ofMj0MWWPZw%3D%3D)
-- coursera certificate: https://coursera.org/share/8c02646f6b59a1d3ccdbc9029f8110b9
-- Cyber Security Certificate: https://certificate.givemycertificate.com/c/08a425ef-7650-4e73-b5b7-c5d5aa9aca38
+
 
 Let's code and create something beautiful together! 🚀
