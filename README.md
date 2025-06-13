@@ -1,54 +1,24 @@
 <h1 align="center">Hi 👋, I'm Soham Kadam</h1>
-<h3 align="center">Let's code and create something beautiful together! 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc2MmI5ZDI2ODBhM2Q1ZThlOWQ5N2RlYjJhOWMyNWFhMDI3NzQ1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" alt="Coding" width="200" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/570bfa_93eba704821a45119d72f3c091263817_mv2.gif">
+<h3 align="center">Computer Science Graduate | MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkadam10009&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkadam10009" /> </p>
-I'm enthusiastic about coding and love to bring my ideas to life through programming.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamkadam1009&label=Profile%20views&color=0e75b6&style=flat" alt="sohamkadam1009" /> </p>
 
-##
+- 🌱 I’m currently learning **Node.js ,Express.js, MongoDB**
 
-About Me :
-- 🖥 My Technical Skills : 
-  - **Languages :** ![Bootstrap](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-html-05122A?style=plastic&logo=html&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS&color=af4e4e) ![Bootstrap](https://img.shields.io/badge/-javascript-05122A?style=plastic&logo=javascript&color=af4e4e)
-  - Solid understanding of **Computer Science Fundamentals.**
-  - Experienced in **translating ideas into functional programs.**
-  - Strong **problem-solving** and **analytical skills.**
-  - Ability to **work collaboratively** on diverse projects.
-  - Continuous learner with a passion for **staying updated** on emerging technologies.
+- 👨‍💻 All of my projects are available at [https://github.com/sohamkadam1009](https://github.com/sohamkadam1009)
 
+- 💬 Ask me about **React, Javascript, Git & GitHub**
 
+- 📫 How to reach me **sohamkadam1009@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zspaxPCrR-8gDexHO36qF2eeH0sL_C7g/view?usp=drivesdk](https://drive.google.com/file/d/1zspaxPCrR-8gDexHO36qF2eeH0sL_C7g/view?usp=drivesdk)
 
-
-
-- 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/11jdSw14hZmjfjwEtttPR1zPR2ECcL1NT/view?usp=sharing)
-- 📚 **Certifications :**
-  
-  - [HTML, CSS, and JavaScript]( https://coursera.org/share/8c02646f6b59a1d3ccdbc9029f8110b9)
-  - [Cyber Security Certificate](https://certificate.givemycertificate.com/c/08a425ef-7650-4e73-b5b7-c5d5aa9aca38)
-    
-- 📫 How to reach me :
-   - **sohamkadam1009@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/soham-kadam-8579102aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By3xTRTnaSD6ofMj0MWWPZw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham kadam" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/soham-kadam-8579102aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-kadam-8579102aa" height="30" width="40" /></a>
 </p>
 
-##
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## Academic Journey
-I am currently pursuing my undergraduate degree in Computer Science at Fergusson College. Throughout my academic journey, I've developed a strong foundation in computer science concepts and practical implementation.
-
-## Projects :
-`Developed a Library Management System in C, implementing features such as adding book information, displaying book details, listing books by author, and providing specific book details. Utilized structures and employed string manipulation for effective data management. Demonstrated strong problem-solving skills and attention to detail in designing and implementing this functional program`
-## Coding Enthusiast
-I have a deep passion for coding and continuously strive to expand my knowledge in various programming languages. I enjoy the process of learning new languages and leveraging them to create beautiful and functional software.
-
-## Goals
-My primary goal is to continue learning and growing as a software developer. I am excited about exploring new coding languages, frameworks, and technologies to enhance my skill set and contribute to the ever-evolving field of computer science.
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkadam1009&" alt="sohamkadam1009" /></p>
