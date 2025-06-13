@@ -1,3 +1,8 @@
+# 👋 Hi, I'm Soham Kadam  
+🎓 2025 CS Graduate from Fergusson College, Pune  
+📄 [Check out my Resume](https://drive.google.com/file/d/1zspaxPCrR-8gDexHO36qF2eeH0sL_C7g/view?usp=drivesdk)
+
+
 # 💫 About Me:
 🌱 I’m currently working on building projects using Node.js, Express.js & MongoDB  <br>🤝 I’m looking to collaborate on full-stack or MERN-based web applications  <br>💬 I’m looking for help with backend best practices and deployment strategies  <br>🌱 I’m currently learning Node.js, Express.js, MongoDB, and improving my DSA skills  <br>💬 Ask me about JavaScript, Git, MERN stack, or anything tech-related  <br>⚡ Fun fact: I love solving real-world problems through code and enjoy debugging!<br>
 
