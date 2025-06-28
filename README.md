@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soham Kadam  
 🎓 2025 CS Graduate from Fergusson College, Pune  
-📄 [Check out my Resume](https://drive.google.com/file/d/1zspaxPCrR-8gDexHO36qF2eeH0sL_C7g/view?usp=drivesdk)
+📄 [Check out my Resume](https://drive.google.com/file/d/14NdWspqhaLvyYOAQKFFBNkM86eXK83El/view?usp=drivesdk)
 
 
 # 💫 About Me:
